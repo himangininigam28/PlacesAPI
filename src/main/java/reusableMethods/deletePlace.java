@@ -28,7 +28,7 @@ public class deletePlace {
 		.when()
 		.put(resourceAPI)
 		.as(updatePlaces.UpdateMaps.class);
-			
+			// checkout the branch
 		return response;
 	}
 	
