@@ -1,15 +1,4 @@
 package stepDefinitions;
-import io.cucumber.java.en.And;
-import io.cucumber.java.en.Given;
-import io.cucumber.java.en.Then;
-import io.cucumber.java.en.When;
-import io.restassured.path.json.JsonPath;
-import io.restassured.response.Response;
-import io.restassured.specification.RequestSpecification;
-import io.restassured.specification.ResponseSpecification;
-import resources.APIResources;
-import resources.TestDataBuild;
-import resources.Utilities;
 import static io.restassured.RestAssured.given;
 
 import java.io.IOException;
@@ -22,12 +11,28 @@ import org.apache.log4j.Logger;
 import org.apache.log4j.PropertyConfigurator;
 import org.junit.Assert;
 
+import addPlaces.AddMaps;
+import addPlaces.AddMapsResponse;
+import getPlaces.GetMaps;
+import io.cucumber.java.en.And;
+import io.cucumber.java.en.Given;
+import io.cucumber.java.en.Then;
+import io.cucumber.java.en.When;
+import io.restassured.path.json.JsonPath;
+import io.restassured.response.Response;
+import io.restassured.specification.RequestSpecification;
+import io.restassured.specification.ResponseSpecification;
+import resources.APIResources;
+import resources.TestDataBuild;
+import resources.Utilities;
+import updatePlaces.UpdateMaps;
+
 public class StepDefinition extends Utilities{
 	private static final Logger logger = LogManager.getLogger(StepDefinition.class);  
-	static addPlaces.AddMaps am;
-	static addPlaces.AddMapsResponse amr1=null; 
-	static getPlaces.GetMaps gm;
-	static updatePlaces.UpdateMaps up;
+	static AddMaps am;
+	static AddMapsResponse amr1=null; 
+	static GetMaps gm;
+	static UpdateMaps up;
 	static Response response2;
 	static RequestSpecification request1; 
 	static ResponseSpecification response1;
