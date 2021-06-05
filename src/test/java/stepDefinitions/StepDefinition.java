@@ -93,7 +93,7 @@ public class StepDefinition extends Utilities{
     		dm.setPlace_id(amr1.getPlace_id());
     		request1 = reusableMethods.deletePlace.DeleteMapsRequest(dm, request1);
     		responseDelete = reusableMethods.deletePlace.DeleteMapsResponseString(request1, resourceAPI.getResource());
-    		
+    		// just a text
     		return responseDelete;
     	}
 		return null;
