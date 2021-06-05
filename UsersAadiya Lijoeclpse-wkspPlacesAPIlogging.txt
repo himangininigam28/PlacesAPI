@@ -1,0 +1,1122 @@
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Spec ready
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Payload Ready
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Request Ready
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :name
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :language
+[main] INFO  stepDefinitions.StepDefinition  - Field Validated :address
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Place Id Update
+[main] INFO  stepDefinitions.StepDefinition  - Status Code Validated :200
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
+[main] INFO  stepDefinitions.StepDefinition  - Response Validated
+[main] INFO  stepDefinitions.StepDefinition  - PlaceId Obtained
+[main] INFO  stepDefinitions.StepDefinition  - variables ready
+[main] INFO  stepDefinitions.StepDefinition  - Valid URL
