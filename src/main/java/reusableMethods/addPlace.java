@@ -13,6 +13,8 @@ public class addPlace {
 		RequestSpecification request = given().log().all()
 				.spec(req)
 				.body(am);
+		
+		//my new comment for git
 		return request;
 	}
 	
@@ -26,7 +28,7 @@ public class addPlace {
 		.when()
 		.post(resourceAPI)
 		.as(addPlaces.AddMapsResponse.class);
-			
+		//my new comment for git	
 		return response;
 	}
 	
